@@ -12,8 +12,13 @@
 ![FIGMA](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![CANVA](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
 
-### GitHub Stats
-![Weyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zhicheong&theme=blue-green)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Zhicheong&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Zhicheong&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhicheong&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### Most Used Languages
-![M](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhicheong&theme=blue-green)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Zhicheong&icon=0&color=0)](https://visitcount.itsvg.in)
