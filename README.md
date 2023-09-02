@@ -15,4 +15,4 @@
 ### GitHub Stats
 ![Weyn's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zhicheong&theme=blue-green)
 
-![M](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![M](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhicheong&theme=blue-green)
