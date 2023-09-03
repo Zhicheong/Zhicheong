@@ -2,10 +2,30 @@
 <img height="200" src="https://github.com/Zhicheong/Zhicheong/assets/139144915/a749cf9d-ee34-4c42-a733-04f62531b6dc" />
 </div>
 
+<div align="center">
+ <a href="https://www.linkedin.com/in/zhi-cheong-603253247/" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+ </a>
+ <a href="mailto:zhicheong15@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+ </a>
+ <a href="one_dayyy" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+ </a>
+ <a href="https://www.instagram.com/zhi_cheong" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+ </a>
+</div>
 
- 📚 Currently learning MERN Stack 
+###
 
-
+# 
+ 👨‍💻  Currently learning MERN Stack 
+ 
+ 📚  3rd year student taking BSIT major in Web Development
+ 
+ ⚡ Mobile Photography is my hobby
+ 
 # 🚀 Languages 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
