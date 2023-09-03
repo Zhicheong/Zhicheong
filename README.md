@@ -17,15 +17,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Zhicheong&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Zhicheong&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-<p><img align="center" src="(https://github-readme-streak-stats.herokuapp.com/?user=Zhicheong&theme=tokyonight&hide_border=false) alt="Zhicheong" /></p> 
 
-  </td>
-  <td width="50%">
-
-<p><img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=Zhicheong&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)"  alt="Zhicheong" /></p>
-  </td>
-</table>
 
