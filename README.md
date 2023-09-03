@@ -2,7 +2,9 @@
 <img height="200" src="https://github.com/Zhicheong/Zhicheong/assets/139144915/a749cf9d-ee34-4c42-a733-04f62531b6dc" />
 </div>
 
-🌱 I’m currently learning MERN Stack 
+
+ 📚 Currently learning MERN Stack 
+
 
 # 🚀 Languages 
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
