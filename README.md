@@ -1,4 +1,6 @@
-![github-header-image (1)](https://github.com/Zhicheong/Zhicheong/assets/139144915/a749cf9d-ee34-4c42-a733-04f62531b6dc)
+<div align="center">
+<img height="200" src="https://github.com/Zhicheong/Zhicheong/assets/139144915/a749cf9d-ee34-4c42-a733-04f62531b6dc" />
+</div>
 
 🌱 I’m currently learning MERN Stack 
 
