@@ -1,5 +1,4 @@
-# Zhi Cheong | Web Developer
-
+![github-header-image (1)](https://github.com/Zhicheong/Zhicheong/assets/139144915/a749cf9d-ee34-4c42-a733-04f62531b6dc)
 
 🌱 I’m currently learning MERN Stack 
 
