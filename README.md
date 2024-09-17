@@ -20,9 +20,9 @@
 ###
 
 # 
- 👨‍💻  Currently learning MERN Stack 
+ 👨‍💻  UI/UX Designer | Frontend Developer
  
- 📚  3rd year student taking BSIT major in Web Development
+ 📚  4th year student taking BSIT major in Web Development
  
  ⚡ Mobile Photography is my hobby
  
